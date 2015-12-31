@@ -2,7 +2,7 @@
 //  tipsTests.swift
 //  tipsTests
 //
-//  Created by Briana Battle on 12/30/15.
+//  Created by Elliott Battle on 12/30/15.
 //  Copyright © 2015 codepath. All rights reserved.
 //
 
